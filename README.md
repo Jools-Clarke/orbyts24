@@ -1,6 +1,6 @@
 # notebook to accompany 2024/25 KS4 orbyts project 
 
-### Computer Lab Week 5 <- THIS WEEK
+### Computer Lab Week 5
 open a fresh version of the week 5 notebook [here](https://colab.research.google.com/github/Jools-Clarke/orbyts24/blob/main/lesson_5_hyperparameter_tuning.ipynb)
 
 ---
