@@ -3,6 +3,12 @@
 ### Computer Lab Week 12
 open a fresh version of the week 12 notebook with project data [here](https://colab.research.google.com/github/Jools-Clarke/orbyts24/blob/main/lesson_12_plot_templates.ipynb)
 
+### Poster
+Poster Template [here](https://docs.google.com/presentation/d/1e9JMmKLyIs_VzMqyICCYqkhKGwosFM32LCZJA07v0fc/edit?usp=sharing)
+
+### Powerpoint Presentation
+Powerpoint Presentation [here](https://docs.google.com/presentation/d/1fu-wAnFdq8mKnlxrAOycnvYL5VZgOoAwwWQGzhHShTA/edit?usp=sharing)
+
 ---
 
 ### Computer Lab Week 7
